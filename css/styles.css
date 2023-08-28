@@ -45,10 +45,10 @@ nav a:hover {
 
 .hero {
     text-align: center;
-    padding: 150px 0;
-    background-image: url('hero-bg.jpg');
+    padding: 150px 200px;
+    background-image: url('../img/photo-1559925393-8be0ec4767c8.jpg');
     background-size: cover;
-    color: white;
+    color: firebrick;
 }
 
 .hero h1 {
