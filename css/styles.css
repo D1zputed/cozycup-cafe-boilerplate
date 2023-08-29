@@ -103,7 +103,7 @@ nav a:hover {
 }
 
 .contact {
-    padding: 100px 0;
+    padding: 80px 0;
     text-align: center;
     background-color: #4c3c32;
     color: white;
@@ -111,17 +111,65 @@ nav a:hover {
 
 .contact h2 {
     font-size: 30px;
-    margin-bottom: 20px;
+    margin-bottom: 10px;
 }
 
 .contact p {
     font-size: 18px;
-    margin-bottom: 40px;
+    margin-bottom: 20px;
 }
-
+.flip-card {
+    margin:0 auto;
+    background-color: transparent;
+    width: 300px;
+    height: 300px;
+    perspective: 1000px;
+    float: left;
+    padding: 100px;
+    display: flex;
+    margin-top: 24px;
+    margin-bottom: 15px;
+  }
+  
+  .flip-card-inner {
+    position: relative;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transition: transform 0.6s;
+    transform-style: preserve-3d;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+  }
+  
+  .flip-card:hover .flip-card-inner {
+    transform: rotateY(180deg);
+  }
+  
+  .flip-card-front, .flip-card-back {
+    position: absolute;
+    width: 100%;
+    height: 100%;
+    -webkit-backface-visibility: hidden;
+    backface-visibility: hidden;
+  }
+  
+  .flip-card-front {
+    background-color: #bbb;
+    color: black;
+  }
+  
+  .flip-card-back {
+    background-color: #325C6A;
+    color: white;
+    transform: rotateY(180deg);
+  }
+  .flip-card-back h1{
+      color: aliceblue;
+  }
+  
 footer {
     background-color: #4c3c32;
     color: white;
     text-align: center;
-    padding: 20px 0;
+    padding: 20px ;
 }
