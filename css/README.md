@@ -30,32 +30,3 @@ The image displays a "Contact Us" page with an elegant and minimalist design. It
 
 ![Contact IMG] {img/contect.png}
 The image is an "About Us" section from Espresso Yourself's website, conveying the coffee shop's ethos and origins. Established in 2018 in Georgia, the shop emphasizes the creation of meaningful connections through coffee. It's presented as more than a café, describing itself as a community hub for art, music, and storytelling, with a commitment to quality and ethically sourced coffee beans. The tone is warm and inviting, suggesting that Espresso Yourself offers a sanctuary for coffee lovers and a space to create lasting memories.
-
-# About the Author
-SAIRAH FAITH TABLATIN is a 22-year-old have a dream to become a UI/UX designer. She has a lot of dream, be rich and travel the word. She love watch anime and kdrama/cdrama.
-
-SYNTECHE SABANDAL is a 23-year-old. She is a BS Information Technology and currently studying at Palawan State University. She loves to play piano, loves to read books, and calligraphy.
- ***
-
- Name: Saira Faith Tablatin
- Email: 202080120@psu.palawan.edu.ph
-
- Name: Synteche Sabandal
- Email: syntechesabandal@gmail.com
-
- [facebook] (https://web.facebook.com/)
- [github] (https://github.com/saisaitablatin)
-
- # Insert Facebook and GitHub icons from this repository: <a
-href=https://github.com/saisaitablatin>
-<img src = "https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Facebook_black.png?raw=true" width="50">
-
-# Link your profile to those icons.
-Name: *Sirah Faith D. Tablatin*  
-Email: *202080120@psu.palawan.edu.ph*
-
-<a
-href=https://github.com/saisaitablatin>
-<img src = "https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Facebook_black.png?raw=true" width="50"> <a
-href=https://github.com/Aborot11>
-<img src = "https://github.com/gauravghongde/social-icons/blob/master/PNG/Black/Github_black.png?raw=true" width="50">
