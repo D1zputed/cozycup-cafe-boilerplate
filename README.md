@@ -21,14 +21,14 @@ Join us, and let's embark on a journey of discovery, one cup at a time...
 * This is Contact
  *** 
 # Screen Capture
-![Logo] (sgs.jpg)
+![Logo](img/saisai.png)
 The image appears to be a sticker design featuring a well-crafted cup of coffee. The coffee has a latte art design on top, resembling a heart within a heart, signifying a love for coffee or the care put into making it. Accompanying the cup is a spoon and a small, heart-shaped biscuit or chocolate on the saucer, enhancing the warm and inviting theme of the design. This could serve as a cozy and appealing logo for a café or coffee shop, emphasizing a friendly and crafted atmosphere.
 
-![Menu] (img/416210962_1647768985752307_4331910812228911936_n.png)
+![Menu](img/416210962_1647768985752307_4331910812228911936_n.png)
 The image showcases a "Pastry Menu" with a selection of baked goods offered at a café or bakery. The items listed include Vanilla Muffins, described as having a delicate vanilla flavor with a sweet glaze, priced at 95.00; Brownies, noted for their dense, fudgy texture and rich chocolate flavor, priced at 200.00; Croissants, buttery and flaky, priced at 299.00; and Scones, described as a delightful British treat perfect with tea, also at 299.00. The menu has a clean, straightforward layout with a warm color scheme, emphasizing the items and their prices clearly.
 
 ![About Us](img/416361370_1056353202301411_6582424725058571047_n.png)
 The image displays a "Contact Us" page with an elegant and minimalist design. It contains contact information for a business named "Espresso Yourself," including an email address, phone number, and physical address located on Coffee Lane in Atlanta, GA. It also invites customers to follow their social media accounts on Facebook, Instagram, and Twitter for updates and promotions, with the handle "@EspressoYourself" for each platform. The color scheme is simple, featuring text on a plain background. There is a copyright notice at the bottom dating the content to 2023.
 
-![Contact IMG] {img/contect.png}
+![Contact](img/415973036_919620365990265_9049602524629033973_n.png)
 The image is an "About Us" section from Espresso Yourself's website, conveying the coffee shop's ethos and origins. Established in 2018 in Georgia, the shop emphasizes the creation of meaningful connections through coffee. It's presented as more than a café, describing itself as a community hub for art, music, and storytelling, with a commitment to quality and ethically sourced coffee beans. The tone is warm and inviting, suggesting that Espresso Yourself offers a sanctuary for coffee lovers and a space to create lasting memories.
