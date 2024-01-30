@@ -10,7 +10,7 @@ But Espresso Yourself is more than a coffee shop; it's a cultural oasis. We cele
 
 Our mission extends beyond serving exquisite coffee; it's about crafting an experience that lingers long after the last sip. Whether you're a discerning coffee aficionado, a lover of cozy café ambiances, or simply in search of a moment's peace, Espresso Yourself is your sanctuary.
 
-Join us, and let's embark on a journey of discovery, one cup at a time.
+Join us, and let's embark on a journey of discovery, one cup at a time...
  ***
 # Features
 * This is Home
