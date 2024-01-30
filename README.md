@@ -1,7 +1,7 @@
 
 # Project Description,
 About Us
-Discover the story behind Espresso Yourself.
+    Discover the story behind Espresso Yourself.
 
 Nestled in the vibrant heart of Georgia, Espresso Yourself was conceived from a deep-rooted passion for not just coffee, but the profound connections it can foster. Our journey began in 2018, driven by the desire to create a haven where every visit is a warm embrace and every cup of coffee a masterpiece.
 
